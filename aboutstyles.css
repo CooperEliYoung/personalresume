@@ -9,7 +9,7 @@ body {
     text-align: center;
     font-style: italic;
     font-size: small;
-    margin-top: 25px;
+    margin-top: 50px;
     color: black;
     background-color:lightgray;
 }
@@ -81,4 +81,9 @@ iframe{
 .tableau{
     width: 100%;
     height: 5060px;
+}
+.totop{
+    text-align: center;
+    margin-top: 10px; 
+    margin-bottom: 100px;
 }
