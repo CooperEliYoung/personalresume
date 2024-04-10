@@ -1,0 +1,42 @@
+.nav-item{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 200;
+    text-transform: capitalize;
+    color: black !important;
+}
+.nav-link{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 200;  
+    text-transform: capitalize;
+    color: black !important;
+}
+.navbar-wrapper {
+    background-color: white;
+}
+.navbar {
+    background-color: white !important;
+    padding-top: 0.05rem !important; /* Adjust as needed */
+    padding-bottom: 0.05rem !important; /* Adjust as needed */
+}
+.navbar-nav .nav-link {
+    color: black; /* Change this to the desired text color */
+}
+.navbar-brand{
+    color:black !important;
+  }
+  .page-heading {
+    position: absolute;
+    top: 20%; /* Adjust this value to move the title higher or lower */
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.page-heading h1 {
+    opacity: 1;
+    color: white !important; /* Set the color to black or any other color you prefer */
+}
+.masthead {
+    background-position: center top !important; /* Adjust the position of the background image */
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.1))!important;
+}
